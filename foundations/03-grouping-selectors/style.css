@@ -1,0 +1,17 @@
+.btn{
+    font-size: 28px;
+    border-color: darkgray;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    
+}
+
+.left{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.right{
+    background-color: yellow;
+    cursor: not-allowed;
+}
